@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is going to give us problems
+=======
+I added a log file to the local repository
+>>>>>>> 7b0cf75... I added a log file to the local repository
